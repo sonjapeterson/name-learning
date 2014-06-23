@@ -39,7 +39,7 @@ class BootcampData
 		@bootcamp.add_person("Patrick Casey", "photos/patrick_casey.jpg", "Saybrook 2015", false)
 		@bootcamp.add_person("Andres Vargas", "photos/andres_vargas.jpg", "Calhoun 2017", false)
 		@bootcamp.add_person("E-lynn Yap", "photos/elynn_yap.jpg", "Timothy Dwight 2014", false)
-		@bootcamp.add_person("Taylor Stibs", "photos/taylor_stibs.jpg", "Branford 2015", false)
+		@bootcamp.add_person("Taylor Stib", "photos/taylor_stibs.jpg", "Branford 2015", false)
 		@bootcamp.add_person("Natalia Castillejo Arias", "photos/natalia_castillejo.jpg", "JE 2016", false)
 		@bootcamp.add_person("David Liu", "photos/david_liu.jpg", "Berkeley 2017", false)
 		@bootcamp.add_person("Nikki Feldman", "photos/nikki_feldman.jpg", "Davenport 2014", false)
