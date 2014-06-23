@@ -56,7 +56,6 @@ class BootcampData
 		@bootcamp.add_person("Natalia Bueno", "photos/natalia_bueno.jpg", "GSAS 2017", false)
 		@bootcamp.add_person("Joe Calamia", "photos/Joseph_Cala.jpg", "Forestry 2015", false)
 		@bootcamp.add_person("Zach Young", "photos/zach_young.jpg", "Silliman 2017", false)
-		@bootcamp.add_person("David McPeek", "photos/david_mcpeek.jpg", "Berkeley 2016", false)
 		@bootcamp.add_person("Sahil Gupta", "photos/sahil_gupta.jpg", "Saybrook 2017", false)
 		@bootcamp.add_person("Henok Addis", "photos/henok_addis.jpg", "Stiles 2017", false)
 		@bootcamp.add_person("Jason Kim", "photos/jason_kim.jpg", "Silliman 2016", false)
